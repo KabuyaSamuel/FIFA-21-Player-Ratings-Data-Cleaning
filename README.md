@@ -1,6 +1,7 @@
 # Project - FIFA '21 Player Ratings
 
-![fifa-assignment](/config/fifa-assignment.jpeg)
+![fifa-assignment](fifa-assignment.jpeg)
+
 
 ## FIFA '21 Player Ratings
 The FIFA 21 player rating dataset contains information about the ratings of football players in the FIFA 21 video game. Each player is assigned a rating that reflects their overall skill level in the game. The dataset includes various attributes such as player name, nationality, club, position, and individual attributes like pace, shooting, passing, dribbling, defending, and physicality. These ratings are used to determine player performance and abilities within the game.
